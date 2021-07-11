@@ -1,0 +1,12 @@
+Underclock using apps / windows only ( not work for gaming )
+
+Open Registry Editor
+1. Open your Windows Power Option setting or search "choose a power plan"
+2. Choose "your_power_plan_name" or Create a power plan - "your_power_plan_name" Balanced or High performance - OK
+3. Click "your_power_plan_name" & click Change advanced power settings
+4. Click Processor power management
+5. Click Maximum processor state set value 75% (on battery & Pluggin in) or u want - > OK
+6. Choose "your_power_plan_name"
+
+Regards,
+Eki Indradi

@@ -1,0 +1,16 @@
+Disable turbo boost / turbo core / cpu boost Ryzen Processor
+
+Open Registry Editor
+1. Copy and Paste this address: Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\be337238-0d82-4146-a960-4f3749d470c7
+2. Click “Attributes”
+3. Change value data = “2” (the default value will be “1”)
+4. Open your Windows Power Option setting or search "choose a power plab"
+5. Create a power plan - "your_power_plan_name" Balanced or High performance - OK
+6. Click "your_power_plan_name" & click Change advanced power settings
+7. Click Processor power management
+8. Click Processor performance boost mode -> Disable (On battery & Plugged in) -> OK
+9. Choose "your_power_plan_name"
+
+
+Regards,
+Eki Indradi
