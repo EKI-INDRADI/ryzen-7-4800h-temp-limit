@@ -1,6 +1,7 @@
 # EKI RESEARCH & DEVELOPMENT
 
 - Disable Turbo Core / Turbo Boost / CPU Boost Ryzen Processor
+- Underclock CPU
 - Temperature limit Ryzen Processor 
 
 
