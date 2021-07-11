@@ -1,0 +1,8 @@
+- Download Ryzen Controller from 
+https://gitlab.com/ryzen-controller-team/ryzen-controller/-/releases
+- install
+- CPU
+- Temperature limit to 70'C
+
+Regards,
+Eki Indradi
