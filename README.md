@@ -1,21 +1,30 @@
 # EKI RESEARCH & DEVELOPMENT
 
+Problem "because ryzen 7 4800H full load on game 90-95'C by default, Turbo Core / CPU Boost is bug after October 2020"
+
 - Disable Turbo Core / Turbo Boost / CPU Boost Ryzen Processor
 - Underclock CPU
 - Temperature limit Ryzen Processor 
 
 
-# Tested Lenovo IdeaPad Gaming 3 15ARH05
+# Tested 
 
-Processor: AMD Ryzen 7 4800H
-RAM: 16GB ( 2 x 8 ) DDR4
-NVME: 512GB
-VGA: NVIDIA GeForce GTX 1650 Ti 4GB GDDR6
-Display: IPS 15.6 Inch FHD 120Hz 250 nits
-OS: Windows 10 Home
+Lenovo IdeaPad Gaming 3 15ARH05
+
+- Processor: AMD Ryzen 7 4800H
+
+- RAM: 16GB ( 2 x 8 ) DDR4
+
+- NVME: 512GB
+
+- VGA: NVIDIA GeForce GTX 1650 Ti 4GB GDDR6
+
+- Display: IPS 15.6 Inch FHD 120Hz 250 nits
+
+- OS: Windows 10 Home
 
 
-![EXAMPLE](https://github.com/EKI-INDRADI/eki-latihan-docker-code-server--file-browser--wetty/raw/master/hasil/eki.png)
+![Tested](https://github.com/EKI-INDRADI/ryzen-7-4800h-temp-limit/raw/master/temp_limit.png)
 
 
 Reference & thanks to :
