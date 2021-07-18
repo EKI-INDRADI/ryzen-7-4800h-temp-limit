@@ -2,9 +2,12 @@
 
 Problem "because ryzen 7 4800H full load on game 90-95'C by default, Turbo Core / CPU Boost is bug after October 2020"
 
+
 - Disable Turbo Core / Turbo Boost / CPU Boost Ryzen Processor -> temperature 83-85'C 
-- Underclock CPU if state 45% -> Cpu Clock @1.4 Ghz (power saver)
-- Temperature limit Ryzen Processor  -> temperature 70-77'C 
+- Temperature limit Ryzen Processor  -> temperature 65-72'C [ recomended set temp to 65'C using ryzen controller ]
+
+
+- Underclock CPU if state 45% -> Cpu Clock @1.4 Ghz (power saver) [ dont use for gaming ] 
 
 
 # Tested 
